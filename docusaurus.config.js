@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DWP Site',
   tagline: 'Programming are Cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://Dikiwp30.github.io.git',
+  baseUrl: '/my-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/diki_logo.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Dikiwp30', // Usually your GitHub org/user name.
+  projectName: 'my-website', // Usually your repo name.
 
   presets: [
     [
